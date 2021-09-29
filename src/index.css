@@ -1,10 +1,7 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://dthezntil550i.cloudfront.net/cg/latest/cg1806131005366020005760829/22a03e58-8778-4756-a1b2-a18eb765d501.png');
+  background-size: 100%;
+  
 }
 
 code {
